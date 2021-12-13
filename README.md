@@ -3,6 +3,16 @@
 A new Flutter project.
 
 ## Getting Started
+Watch the complite tutorial for integrating Facebook ads into the Flutter app in our Youtube Channel
+
+1- Complete Integrating Facebook Audience Network With Mediation in Flutter SDK 12 [ Part 1 -3 ]
+https://youtu.be/kSbMf5rg2XI
+
+2- Complete Integrating Facebook Audience Network With Mediation in Flutter SDK 12 [ Part 2 -3 ]
+https://youtu.be/af1PM2UJZJ4
+
+3-How to Import this Project From Github to Android studio | The Right Way [ Part 3 -3 ]
+https://youtu.be/ZfBHtXiE_p8
 
 This project is a starting point for a Flutter application.
 
